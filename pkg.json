@@ -1,0 +1,17 @@
+{
+	"code": {
+		"test": [
+			"test",
+			"js"
+		],
+		"main": [
+			"js",
+			"dist",
+			"graph-indexed.js"
+		]
+	},
+	"debug": false,
+	"src": "js/src/",
+	"out": "js/dist/",
+	"name": "graph-indexed"
+}
