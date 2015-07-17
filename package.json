@@ -21,7 +21,7 @@
 		"build": "./node_modules/.bin/aureooms-node-package-build"
 	},
 	"main": "js/dist/graph-indexed.js",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"homepage": "http://aureooms.github.io/js-graph-indexed/",
 	"description": "indexed graph code bricks for JavaScript",
 	"keywords": [

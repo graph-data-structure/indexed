@@ -1,7 +1,7 @@
 {
 	"repo": "aureooms/js-graph-indexed",
 	"description": "indexed graph code bricks for JavaScript",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"license": "AGPL-3.0",
 	"main": "js/dist/graph-indexed.js",
 	"scripts": [
