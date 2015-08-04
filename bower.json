@@ -13,7 +13,7 @@
 		"README.md"
 	],
 	"main": "js/dist/graph-indexed.js",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"homepage": "http://aureooms.github.io/js-graph-indexed/",
 	"license": "AGPL-3.0",
 	"description": "indexed graph code bricks for JavaScript",
