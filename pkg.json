@@ -13,5 +13,6 @@
 	"debug": false,
 	"src": "js/src/",
 	"out": "js/dist/",
-	"name": "graph-indexed"
+	"name": "graph-indexed",
+	"babel": true
 }
