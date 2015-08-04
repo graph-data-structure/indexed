@@ -161,11 +161,31 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-graph-indexed/js/src/dummy.js",
-        "projectPath": "js/src/dummy.js",
-        "targetPath": "dummy",
-        "pageTitle": "dummy",
-        "title": "dummy"
+        "sourcePath": "/home/aureooms/dev/js/js-graph-indexed/js/src/Indexed.js",
+        "projectPath": "js/src/Indexed.js",
+        "targetPath": "Indexed",
+        "pageTitle": "Indexed",
+        "title": "Indexed"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-graph-indexed/js/src/_index.js",
+        "projectPath": "js/src/_index.js",
+        "targetPath": "_index",
+        "pageTitle": "_index",
+        "title": "_index"
       },
       "depth": 1,
       "outline": []
