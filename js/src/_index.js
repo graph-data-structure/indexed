@@ -1,7 +1,11 @@
 
-const index = function ( G ) {
+const index = function ( Graph ) {
 
-	return new Indexed( G , [ ] , new WeakMap( ) ) ;
+	return function ( ) {
+
+		return new Indexed( new Graph( ) , [ ] , new WeakMap( ) ) ;
+
+	} ;
 
 } ;
 
