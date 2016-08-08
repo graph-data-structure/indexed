@@ -17,7 +17,7 @@
 		"aureooms-js-adjacency-matrix": "^2.0.1",
 		"aureooms-js-dll": "^6.0.9",
 		"aureooms-js-graph-spec": "^1.0.1",
-		"aureooms-node-package": "^4.2.5"
+		"aureooms-node-package": "^7.0.0"
 	},
 	"scripts": {
 		"doc": "./node_modules/.bin/groc",
