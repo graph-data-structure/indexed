@@ -3,15 +3,15 @@
 
 indexed graph code bricks for JavaScript
 
-[![NPM license](http://img.shields.io/npm/l/aureooms-js-graph-indexed.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-graph-indexed/master/LICENSE)
-[![NPM version](http://img.shields.io/npm/v/aureooms-js-graph-indexed.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-graph-indexed)
-[![Bower version](http://img.shields.io/bower/v/aureooms-js-graph-indexed.svg?style=flat)](http://bower.io/search/?q=aureooms-js-graph-indexed)
+[![NPM license](http://img.shields.io/npm/l/@aureooms/js-graph-indexed.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-graph-indexed/master/LICENSE)
+[![NPM version](http://img.shields.io/npm/v/@aureooms/js-graph-indexed.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-indexed)
+[![Bower version](http://img.shields.io/bower/v/@aureooms/js-graph-indexed.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-graph-indexed)
 [![Build Status](http://img.shields.io/travis/aureooms/js-graph-indexed.svg?style=flat)](https://travis-ci.org/aureooms/js-graph-indexed)
 [![Coverage Status](http://img.shields.io/coveralls/aureooms/js-graph-indexed.svg?style=flat)](https://coveralls.io/r/aureooms/js-graph-indexed)
 [![Dependencies Status](http://img.shields.io/david/aureooms/js-graph-indexed.svg?style=flat)](https://david-dm.org/aureooms/js-graph-indexed#info=dependencies)
 [![devDependencies Status](http://img.shields.io/david/dev/aureooms/js-graph-indexed.svg?style=flat)](https://david-dm.org/aureooms/js-graph-indexed#info=devDependencies)
 [![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-graph-indexed.svg?style=flat)](https://codeclimate.com/github/aureooms/js-graph-indexed)
-[![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-graph-indexed.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-graph-indexed)
+[![NPM downloads per month](http://img.shields.io/npm/dm/@aureooms/js-graph-indexed.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-indexed)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-graph-indexed.svg?style=flat)](https://github.com/aureooms/js-graph-indexed/issues)
 [![Inline docs](http://inch-ci.org/github/aureooms/js-graph-indexed.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-graph-indexed)
 
@@ -30,7 +30,7 @@ and [npm](https://github.com/npm/npm).
 ```terminal
 jspm install github:aureooms/js-graph-indexed
 # or
-jspm install npm:aureooms-js-graph-indexed
+jspm install npm:@aureooms/js-graph-indexed
 ```
 ### duo
 No install step needed for duo!
@@ -42,27 +42,27 @@ component install aureooms/js-graph-indexed
 
 ### bower
 ```terminal
-bower install aureooms-js-graph-indexed
+bower install @aureooms/js-graph-indexed
 ```
 
 ### ender
 ```terminal
-ender add aureooms-js-graph-indexed
+ender add @aureooms/js-graph-indexed
 ```
 
 ### jam
 ```terminal
-jam install aureooms-js-graph-indexed
+jam install @aureooms/js-graph-indexed
 ```
 
 ### spm
 ```terminal
-spm install aureooms-js-graph-indexed --save
+spm install @aureooms/js-graph-indexed --save
 ```
 
 ### npm
 ```terminal
-npm install aureooms-js-graph-indexed --save
+npm install @aureooms/js-graph-indexed --save
 ```
 
 ## Require
@@ -70,7 +70,7 @@ npm install aureooms-js-graph-indexed --save
 ```js
 let graphindexed = require( "github:aureooms/js-graph-indexed" ) ;
 // or
-import graphindexed from 'aureooms-js-graph-indexed' ;
+import graphindexed from '@aureooms/js-graph-indexed' ;
 ```
 ### duo
 ```js
@@ -79,17 +79,17 @@ let graphindexed = require( "aureooms/js-graph-indexed" ) ;
 
 ### component, ender, spm, npm
 ```js
-let graphindexed = require( "aureooms-js-graph-indexed" ) ;
+let graphindexed = require( "@aureooms/js-graph-indexed" ) ;
 ```
 
 ### bower
 The script tag exposes the global variable `graphindexed`.
 ```html
-<script src="bower_components/aureooms-js-graph-indexed/js/dist/graph-indexed.min.js"></script>
+<script src="bower_components/@aureooms/js-graph-indexed/js/dist/graph-indexed.min.js"></script>
 ```
 Alternatively, you can use any tool mentioned [here](http://bower.io/docs/tools/).
 
 ### jam
 ```js
-require( [ "aureooms-js-graph-indexed" ] , function ( graphindexed ) { ... } ) ;
+require( [ "@aureooms/js-graph-indexed" ] , function ( graphindexed ) { ... } ) ;
 ```
