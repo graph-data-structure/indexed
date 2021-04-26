@@ -2,14 +2,14 @@
 	"dependencies": {},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aureooms/js-graph-indexed.git"
+		"url": "https://github.com/make-github-pseudonymous-again/js-graph-indexed.git"
 	},
 	"license": "AGPL-3.0",
 	"spm": {
 		"main": "js/dist/graph-indexed.js"
 	},
 	"bugs": {
-		"url": "https://github.com/aureooms/js-graph-indexed/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-graph-indexed/issues"
 	},
 	"name": "@aureooms/js-graph-indexed",
 	"devDependencies": {
