@@ -26,7 +26,7 @@
 	},
 	"main": "js/dist/graph-indexed.js",
 	"version": "0.0.2",
-	"homepage": "http://aureooms.github.io/js-graph-indexed/",
+	"homepage": "http://make-github-pseudonymous-again.github.io/js-graph-indexed/",
 	"description": "indexed graph code bricks for JavaScript",
 	"keywords": [
 		"bricks",

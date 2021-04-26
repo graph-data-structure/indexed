@@ -1,4 +1,4 @@
-[js-graph-indexed](http://aureooms.github.io/js-graph-indexed)
+[js-graph-indexed](http://make-github-pseudonymous-again.github.io/js-graph-indexed)
 ==
 
 indexed graph code bricks for JavaScript
