@@ -3,7 +3,7 @@
 
 indexed graph code bricks for JavaScript
 
-[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-graph-indexed.svg?style=flat)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-graph-indexed/master/LICENSE)
+[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-graph-indexed.svg?style=flat)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-graph-indexed/main/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-graph-indexed.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-indexed)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-graph-indexed.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-graph-indexed)
 [![Build Status](https://img.shields.io/travis/make-github-pseudonymous-again/js-graph-indexed.svg?style=flat)](https://travis-ci.org/make-github-pseudonymous-again/js-graph-indexed)
